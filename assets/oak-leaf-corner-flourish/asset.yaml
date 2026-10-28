@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: oak-leaf-corner-flourish
+title: Oak leaf corner with a long stem and acorn
+description: An L-shaped engraved ornament for a top-right corner. A dense mass of large, deeply lobed oak leaves, folded and interlaced with looping ribbon-like stems, fills the top-left arm; from the vertex at the top right a long curling stem descends the right side, throwing off smaller lobed leaves and curls, and ends at the bottom in a single acorn in its scaly cup. Black ink with fine hatched shading; the pale grey-cream paper tone is kept inside the leaves and stems, and the background is transparent.
+type: corner
+categories:
+  - botanical
+subjects:
+  - oak
+  - leaf
+  - acorn
+  - stem
+  - flourish
+colors:
+  - cream
+  - gray
+  - black
+facing: down
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Fits a top-right corner as engraved (leaves along the top, stem down the right side); mirror or rotate it for the other corners.
+  - The leaf mass alone crops out as a square ornament, and the stem with the acorn as a vertical sprig.
+display_width:
+  - 250
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: An Oak Leaf Ornament
+  object_identifier: "1952.100"
+  date: c. 1470
+  artist: Master W with the Key (Netherlandish, active about 1465–1490)
+  record_url: https://clevelandart.org/art/1952.100
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 0cb346b2ff82a2f89bde6063714edca04ea9c292611c0c50cdfa635f4f9559e6
+license: null
