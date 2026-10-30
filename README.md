@@ -3,7 +3,7 @@
 
 An oak leaf ornament engraved by the Netherlandish Master W with the Key around 1470, from one sheet in the Cleveland Museum of Art; a loose print by one artist, grouped by sheet.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `master-w-with-the-key-prints`, historical, 1 asset.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `master-w-with-the-key-prints`, historical, 1 asset, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `master-w-with-the-key-prints/oak-leaf-corner-flourish`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-master-w-with-the-key-prints@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-master-w-with-the-key-prints@1.0.0/webp/oak-leaf-corner-flourish-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-master-w-with-the-key-prints`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-master-w-with-the-key-prints-masters`; never put a master on a page.
